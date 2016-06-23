@@ -35,6 +35,10 @@ In Python, styling guides are **NOT** just about styles. By adopting [PEP8](http
 - *The Hitchhiker's Guide to Python*'s [Learning Python Page](http://docs.python-guide.org/en/latest/intro/learning/)
 - *Python Wiki*'s Beginner Guide for [programmers](https://wiki.python.org/moin/BeginnersGuide/Programmers)
 
+### Online Exercise
+1. [codeacademy](https://www.codecademy.com/zh/learn/python)
+2. [Hackerrank python](https://www.hackerrank.com/domains/python/py-introduction). All kinds of python modules to exercise.
+
 
 ## Python Libraries
 - [awesome-python](https://github.com/vinta/awesome-python) is a curated list of awesome Python frameworks, libraries, software and resources.
